@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##
 House Price Prediction (Tkinter + TTKBootstrap)
 
@@ -15,3 +16,6 @@ Python, Pandas, Scikit-learn, ttkbootstrap
 ## ▶️ Run
 pip install pandas scikit-learn ttkbootstrap
 python app.py
+=======
+# House_Price_Prediction
+>>>>>>> 56d970e5fc47e9e013c64fcf60a1e17807e40633
